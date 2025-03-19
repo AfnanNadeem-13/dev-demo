@@ -1,4 +1,4 @@
 # dev-demo
 it my first repository
 <br>
-Author- Afnan Nadeem
+Author- Afnan Nadeem (apna college)
